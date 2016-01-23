@@ -18,7 +18,7 @@ let rosterOptions = fromStorage('roster-options', {
         2: true,
         3: true,
         4: true,
-        5: false,
+        5: true,
     },
 });
 let cache = {};
