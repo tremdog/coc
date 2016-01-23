@@ -4,7 +4,7 @@ import Model from './Model';
 const CATALYSTS = {
     1: {
         1: [
-            { type: 'gold', amount: 2817 },
+            { type: 'gold', amount: 2818 },
         ],
     },
     2:{
